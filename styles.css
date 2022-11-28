@@ -16,6 +16,8 @@ h1{
 .topnav {
     background-color: black;
     overflow: hidden;
+}
+    .topnav h2 {
         float: left;
         color: #f2f2f2;
         text-align: center;
@@ -25,7 +27,7 @@ h1{
     }
 
 .topnav:hover{
-            background-color: darkblue;
+            background-color: #ddd;
             color: black;
         }
 
