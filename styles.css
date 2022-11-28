@@ -26,8 +26,8 @@ h1{
         font-size: 17px;
     }
 
-.topnav:hover{
-            background-color: #ddd;
+.topnav h2:hover{
+            background-color: grey;
             color: black;
         }
 
