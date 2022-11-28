@@ -42,11 +42,11 @@
     font-family: 'Segoe UI';
 }
 .compprojects{
-    font-family:'Century Gothic';
-    font-size: 30px;
+    
+    font-size: 10px;
 }
-h3{
-    text-decoration:underline;
-    font-weight:bold;
+h3 {
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Segoe UI';
 }
- 
