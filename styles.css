@@ -9,3 +9,7 @@
     font-family:'MS UI Gothic';
     font-size:300%;
 }
+h1{
+    font-family:'Segoe UI';
+    flex-wrap:wrap;
+}
