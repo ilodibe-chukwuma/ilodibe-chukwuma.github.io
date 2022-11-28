@@ -41,12 +41,13 @@
 .purpose {
     font-family: 'Segoe UI';
 }*/
-.compprojects{
+/*.compprojects{
     
-    font-size: 10px;
-}
+    
+}*/
 #h3style {
     text-decoration: underline;
     font-weight: bold;
     font-family: 'Segoe UI';
+    font-size: 10px;
 }
