@@ -43,6 +43,10 @@
 }
 .compprojects{
     font-family:'Century Gothic';
-    font-size: 50px;
+    font-size: 30px;
+}
+h3{
+    text-decoration:underline;
+    font-weight:bold;
 }
  
