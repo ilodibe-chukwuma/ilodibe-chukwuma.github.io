@@ -35,16 +35,7 @@
    background-color: #04AA6D;
      color: white;
    }
-/*.intro{
-    font-family:'Segoe UI';
-}
-.purpose {
-    font-family: 'Segoe UI';
-}*/
-/*.compprojects{
-    
-    
-}*/
+
 #h3style {
     text-decoration: underline;
     font-weight: bold;
@@ -63,5 +54,5 @@ img {
 }
 ul {
     font-size: 25px;
-    list-style-type:
+    
 }
