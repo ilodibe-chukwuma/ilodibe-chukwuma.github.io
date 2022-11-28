@@ -8,8 +8,6 @@
     text-align:center;
     font-family:'MS UI Gothic';
     font-size:300%;
-}
-h1{
     font-family:'Segoe UI';
     float:left;
 }
@@ -17,7 +15,7 @@ h1{
     background-color: black;
     overflow: hidden;
 }
-    .topnav h2 {
+ .topnav h2 {
         float: left;
         color: #f2f2f2;
         text-align: center;
