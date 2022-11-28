@@ -14,6 +14,7 @@
 .topnav {
     background-color: black;
     overflow: hidden;
+    text-align:center;
 }
  .topnav h2 {
         float: left;
@@ -29,7 +30,10 @@
             color: black;
         }
 
-  .topnav a.active {
-            background-color: #04AA6D;
-            color: white;
-        }
+  .topnav a.active 
+  {
+   background-color: #04AA6D;
+     color: white;
+   }
+
+ 
